@@ -1,0 +1,55 @@
+{
+  "id": 0,
+  "name": "2020-09-07 - russia regions 2",
+  "adsetId": "23845776013720364",
+  "campaignName": "Page Likes #2 ? ?",
+  "campaignId": "23842509904780364",
+  "accountName": "Marco Castelo",
+  "accountId": "act_133018820477331",
+  "status": "Live",
+  "audienceLocations": [
+    {
+      "masterLocation": {
+        "breakdownLocations": [
+          {
+            "id": 0,
+            "locationId": "2054807",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          }
+        ],
+        "id": 0,
+        "locationId": "2054807",
+        "latitude": 0,
+        "longitude": 0,
+        "radius": 0,
+        "radiusUnit": "KILOMETERS"
+      },
+      "proximityLocations": []
+    },
+    {
+      "masterLocation": {
+        "breakdownLocations": [
+          {
+            "id": 0,
+            "locationId": "2078045",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          }
+        ],
+        "id": 0,
+        "locationId": "2078045",
+        "latitude": 0,
+        "longitude": 0,
+        "radius": 0,
+        "radiusUnit": "KILOMETERS"
+      },
+      "proximityLocations": []
+    }
+  ],
+  "singleLocation": []
+}

@@ -1,0 +1,23 @@
+{
+  "entity": {
+    "id": 0,
+    "name": "2020-09-07 - russia regions 2",
+    "adsetId": "23845776013720364",
+    "campaignName": "Page Likes #2 ? ?",
+    "campaignId": "23842509904780364",
+    "accountName": "Marco Castelo",
+    "accountId": "act_133018820477331",
+    "status": "Live",
+    "audienceLocations": [],
+    "singleLocation": []
+  },
+  "locationSummary": {},
+  "errors": [
+    {
+      "title": "Weather targeting cannot be applied to this ad set.",
+      "description": "Your ad set’s geo targeting settings in Facebook cover too broad an area.If your campaign is targeting the USA, Australia or Canada, please check our guides on how to correctly set up your campaign for compatibility with WeatherAds.Otherwise please contact us and we will assist you.",
+      "internal_code": "BF301",
+      "help_url": "http://www.weatherads.io/documentation/weather-targeting-country-wide-facebook-campaigns-usa-canada-australia"
+    }
+  ]
+}

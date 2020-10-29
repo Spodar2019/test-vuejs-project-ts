@@ -1,0 +1,1097 @@
+[
+  {
+    "entity": {
+      "id": 837501236,
+      "name": "2020-09-07 - russia regions 3",
+      "adsetId": "23845776052960364",
+      "campaignName": "Page Likes #2 ? ?",
+      "campaignId": "23842509904780364",
+      "accountName": "Marco Castelo",
+      "accountId": "act_133018820477331",
+      "status": "Live",
+      "audienceLocations": [
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22344,
+                "locationId": "2104821",
+                "latitude": 46.70874939999999,
+                "longitude": 38.6108571,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5125,
+            "locationId": "2104821",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22358,
+                "locationId": "1941924",
+                "latitude": 47.0134017,
+                "longitude": 39.40386489999999,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5135,
+            "locationId": "1941924",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22355,
+                "locationId": "1944166",
+                "latitude": 47.139761,
+                "longitude": 39.7378477,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5136,
+            "locationId": "1944166",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22362,
+                "locationId": "1941914",
+                "latitude": 47.09474460000001,
+                "longitude": 39.4136552,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5137,
+            "locationId": "1941914",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22347,
+                "locationId": "1945557",
+                "latitude": 45.6415289,
+                "longitude": 39.7055977,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5138,
+            "locationId": "1945557",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22360,
+                "locationId": "2104823",
+                "latitude": 46.7128863,
+                "longitude": 38.2741151,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5140,
+            "locationId": "2104823",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22351,
+                "locationId": "1944167",
+                "latitude": 47.139761,
+                "longitude": 39.7378477,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5141,
+            "locationId": "1944167",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22328,
+                "locationId": "2104814",
+                "latitude": 46.6118228,
+                "longitude": 39.23482449999999,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5142,
+            "locationId": "2104814",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22336,
+                "locationId": "2102955",
+                "latitude": 46.7128863,
+                "longitude": 38.2741151,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5143,
+            "locationId": "2102955",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22364,
+                "locationId": "2081178",
+                "latitude": 45.8548161,
+                "longitude": 40.1257418,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5145,
+            "locationId": "2081178",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22343,
+                "locationId": "2081176",
+                "latitude": 45.8639984,
+                "longitude": 40.24775169999999,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5146,
+            "locationId": "2081176",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22368,
+                "locationId": "2024674",
+                "latitude": 56.6575311,
+                "longitude": 124.711,
+                "radius": 17,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5147,
+            "locationId": "2024674",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 17,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22349,
+                "locationId": "1997235",
+                "latitude": 45.036035,
+                "longitude": 38.97457060000001,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5148,
+            "locationId": "1997235",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22371,
+                "locationId": "2085957",
+                "latitude": 55.1438334,
+                "longitude": 124.7413766,
+                "radius": 0,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5149,
+            "locationId": "2085957",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 0,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        }
+      ],
+      "singleLocation": []
+    },
+    "locationSummary": {
+      "originalLocations": [
+        {
+          "locationType": "city",
+          "count": 14
+        }
+      ],
+      "breakdownLocations": [
+        {
+          "locationType": "city",
+          "count": 14
+        }
+      ],
+      "status": "Synced"
+    }
+  },
+  {
+    "entity": {
+      "id": 837501237,
+      "name": "2020-09-07 - russia regions 4",
+      "adsetId": "23845776140360364",
+      "campaignName": "Page Likes #2 ? ?",
+      "campaignId": "23842509904780364",
+      "accountName": "Marco Castelo",
+      "accountId": "act_133018820477331",
+      "status": "Live",
+      "audienceLocations": [
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22361,
+                "locationId": "2043995",
+                "latitude": 45.2934041,
+                "longitude": 39.2634176,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5100,
+            "locationId": "2043995",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22367,
+                "locationId": "2089443",
+                "latitude": 45.2158861,
+                "longitude": 39.6882601,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5101,
+            "locationId": "2089443",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22365,
+                "locationId": "2089441",
+                "latitude": 45.2158861,
+                "longitude": 39.6882601,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5102,
+            "locationId": "2089441",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22363,
+                "locationId": "2072590",
+                "latitude": 45.0581719,
+                "longitude": 39.3140884,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5103,
+            "locationId": "2072590",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22352,
+                "locationId": "1993783",
+                "latitude": 45.46239370000001,
+                "longitude": 39.4480479,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5104,
+            "locationId": "1993783",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22357,
+                "locationId": "2031851",
+                "latitude": 47.7568793,
+                "longitude": 39.9357686,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5105,
+            "locationId": "2031851",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22356,
+                "locationId": "2004619",
+                "latitude": 45.3065824,
+                "longitude": 39.9338768,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5106,
+            "locationId": "2004619",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22354,
+                "locationId": "1993784",
+                "latitude": 45.46239370000001,
+                "longitude": 39.4480479,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5107,
+            "locationId": "1993784",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22369,
+                "locationId": "2111184",
+                "latitude": 45.0558807,
+                "longitude": 39.1493726,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5108,
+            "locationId": "2111184",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22359,
+                "locationId": "2033297",
+                "latitude": 47.2700208,
+                "longitude": 39.8603712,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5109,
+            "locationId": "2033297",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22350,
+                "locationId": "1980746",
+                "latitude": 46.0759139,
+                "longitude": 38.9671101,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5116,
+            "locationId": "1980746",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22348,
+                "locationId": "1966567",
+                "latitude": 44.9244791,
+                "longitude": 38.9125914,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5124,
+            "locationId": "1966567",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22370,
+                "locationId": "1942034",
+                "latitude": 45.5464729,
+                "longitude": 39.3344235,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5126,
+            "locationId": "1942034",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22322,
+                "locationId": "1954431",
+                "latitude": 45.8066975,
+                "longitude": 38.9933586,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5134,
+            "locationId": "1954431",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22353,
+                "locationId": "1936765",
+                "latitude": 47.2641365,
+                "longitude": 39.8712732,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5139,
+            "locationId": "1936765",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        }
+      ],
+      "singleLocation": []
+    },
+    "locationSummary": {
+      "originalLocations": [
+        {
+          "locationType": "city",
+          "count": 15
+        }
+      ],
+      "breakdownLocations": [
+        {
+          "locationType": "city",
+          "count": 15
+        }
+      ],
+      "status": "Synced"
+    }
+  },
+  {
+    "entity": {
+      "id": 837501238,
+      "name": "2020-09-07 - russia regions 5",
+      "adsetId": "23845776208080364",
+      "campaignName": "Page Likes #2 ? ?",
+      "campaignId": "23842509904780364",
+      "accountName": "Marco Castelo",
+      "accountId": "act_133018820477331",
+      "status": "Live",
+      "audienceLocations": [
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22345,
+                "locationId": "1964049",
+                "latitude": 47.1333551,
+                "longitude": 39.8829892,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5110,
+            "locationId": "1964049",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22331,
+                "locationId": "2057754",
+                "latitude": 46.9372159,
+                "longitude": 39.69964360000001,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5111,
+            "locationId": "2057754",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22324,
+                "locationId": "2030619",
+                "latitude": 45.6415289,
+                "longitude": 39.7055977,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5112,
+            "locationId": "2030619",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22325,
+                "locationId": "2032117",
+                "latitude": 45.2366074,
+                "longitude": 38.9712108,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5113,
+            "locationId": "2032117",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22327,
+                "locationId": "2039234",
+                "latitude": 45.8851238,
+                "longitude": 39.5331791,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5114,
+            "locationId": "2039234",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22329,
+                "locationId": "2049351",
+                "latitude": 44.9545453,
+                "longitude": 39.0268829,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5115,
+            "locationId": "2049351",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22332,
+                "locationId": "2077037",
+                "latitude": 46.6706906,
+                "longitude": 38.2162831,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5117,
+            "locationId": "2077037",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22335,
+                "locationId": "2096682",
+                "latitude": 45.6415289,
+                "longitude": 39.7055977,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5118,
+            "locationId": "2096682",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22333,
+                "locationId": "1987541",
+                "latitude": 45.7634268,
+                "longitude": 38.0266336,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5123,
+            "locationId": "1987541",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        }
+      ],
+      "singleLocation": []
+    },
+    "locationSummary": {
+      "originalLocations": [
+        {
+          "locationType": "city",
+          "count": 9
+        }
+      ],
+      "breakdownLocations": [
+        {
+          "locationType": "city",
+          "count": 9
+        }
+      ],
+      "status": "Synced"
+    }
+  },
+  {
+    "entity": {
+      "id": 837502107,
+      "name": "2020-09-07 - russia regions 1 – Copy",
+      "adsetId": "23846015395970364",
+      "campaignName": "Page Likes #2 ? ?",
+      "campaignId": "23842509904780364",
+      "accountName": "Marco Castelo",
+      "accountId": "act_133018820477331",
+      "status": "Live",
+      "audienceLocations": [
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22337,
+                "locationId": "1997234",
+                "latitude": 45.036035,
+                "longitude": 38.97457060000001,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5119,
+            "locationId": "1997234",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22339,
+                "locationId": "2016372",
+                "latitude": 44.6076175,
+                "longitude": 40.1046934,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5120,
+            "locationId": "2016372",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22340,
+                "locationId": "2032152",
+                "latitude": 45.5790083,
+                "longitude": 39.65430730000001,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5121,
+            "locationId": "2032152",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 22342,
+                "locationId": "2092823",
+                "latitude": 54.60350649999999,
+                "longitude": 127.4801721,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 5122,
+            "locationId": "2092823",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        }
+      ],
+      "singleLocation": []
+    },
+    "locationSummary": {
+      "originalLocations": [
+        {
+          "locationType": "city",
+          "count": 4
+        }
+      ],
+      "breakdownLocations": [
+        {
+          "locationType": "city",
+          "count": 4
+        }
+      ],
+      "status": "Synced"
+    }
+  },
+  {
+    "entity": {
+      "id": 837502255,
+      "name": "2020-09-07 - russia regions 1",
+      "adsetId": "23845775920870364",
+      "campaignName": "Page Likes #2 ? ?",
+      "campaignId": "23842509904780364",
+      "accountName": "Marco Castelo",
+      "accountId": "act_133018820477331",
+      "status": "Live",
+      "audienceLocations": [
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 67614,
+                "locationId": "1997234",
+                "latitude": 45.036035,
+                "longitude": 38.97457060000001,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 8112,
+            "locationId": "1997234",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 67615,
+                "locationId": "2016372",
+                "latitude": 44.6076175,
+                "longitude": 40.1046934,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 8113,
+            "locationId": "2016372",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        },
+        {
+          "masterLocation": {
+            "breakdownLocations": [
+              {
+                "id": 67616,
+                "locationId": "2032152",
+                "latitude": 45.5790083,
+                "longitude": 39.65430730000001,
+                "radius": 40,
+                "radiusUnit": "KILOMETERS"
+              }
+            ],
+            "id": 8114,
+            "locationId": "2032152",
+            "latitude": 0,
+            "longitude": 0,
+            "radius": 40,
+            "radiusUnit": "KILOMETERS"
+          },
+          "proximityLocations": []
+        }
+      ],
+      "singleLocation": []
+    },
+    "locationSummary": {
+      "originalLocations": [
+        {
+          "locationType": "city",
+          "count": 3
+        }
+      ],
+      "breakdownLocations": [
+        {
+          "locationType": "city",
+          "count": 3
+        }
+      ],
+      "status": "Synced"
+    }
+  }
+]
