@@ -41,13 +41,12 @@
 </template>
 
 <script lang="ts">
-
 import IconTrash from "@/assets/icons/icon-trash.svg";
 import IconRepeat from "@/assets/icons/icon-repeat.svg";
 import CommonMixin from "@/mixins/common.mixin";
 import { Component, Prop, Mixins } from "vue-property-decorator";
-import {Campaign} from "@/interfaces/Campaign";
-import {OriginalLocation} from "@/interfaces/OriginalLocation";
+import { Campaign } from "@/interfaces/Campaign";
+import { OriginalLocation } from "@/interfaces/OriginalLocation";
 
 @Component({
   components: { IconTrash, IconRepeat }

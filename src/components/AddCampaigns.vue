@@ -136,8 +136,8 @@ export default class AddCampaigns extends Vue {
    * @param createdCampaign
    */
   public handleCampaignsResponse(
-    selectedCampaign: unknown,
-    createdCampaign: unknown
+    selectedCampaign: unknown, //TODO describe interface
+    createdCampaign: unknown // TODO describe interface
   ) {
     //TODO
     console.log(selectedCampaign, createdCampaign);

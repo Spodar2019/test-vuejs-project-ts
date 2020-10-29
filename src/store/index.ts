@@ -22,7 +22,7 @@ export default new Vuex.Store({
      * @param state
      * @param dispatch
      * @param automationId
-     * @returns {Promise<unknown>}
+     * @returns {Promise<>}
      */
     getAutomationEntity: function({ state, dispatch }, automationId) {
       return new Promise((resolve, reject) => {
@@ -45,7 +45,7 @@ export default new Vuex.Store({
      * get available campaigns /api/facebook/getcampaigns/
      * @param state
      * @param dispatch
-     * @returns {Promise<unknown>}
+     * @returns {Promise<>}
      */
     getCampaigns: function({ state, dispatch }) {
       return new Promise((resolve, reject) => {
@@ -65,7 +65,7 @@ export default new Vuex.Store({
      * @param state
      * @param dispatch
      * @param campaign
-     * @returns {Promise<unknown>}
+     * @returns {Promise<>}
      */
     addCampaign: function({ state, dispatch }, campaign) {
       return new Promise((resolve, reject) => {
